@@ -23,11 +23,11 @@ http://www.sourceware.org/ml/archer/2010-q3/msg00024.html
 
 Tested platforms
 ----------------
-ubuntu 16.04  / `x86_64` / gdb-7.11.1 / python-3.5.2 / gcc-5.4.0 - works
-ubuntu 14.04  / `x86_64` / gdb-7.7.1  / python-3.4.0 / gcc-4.8.2 - works
-debian 7.2    /   `i386` / gdb-7.4.1  / python-2.7.3 / gcc-4.7.2 - works
-debian 6.0.8  /   `i386` / gdb-7.3.1  / python-2.6.6 / gcc-4.4.5 - works
-debian 6.0.10 /   `i386` / gdb-7.0.1  / python-2.6.6 / gcc-4.4.5 - doesn't work (no gdb.inferiors)
+- ubuntu 16.04  / x86_64 / gdb-7.11.1 / python-3.5.2 / gcc-5.4.0 - works
+- ubuntu 14.04  / x86_64 / gdb-7.7.1  / python-3.4.0 / gcc-4.8.2 - works
+- debian 7.2    /   i386 / gdb-7.4.1  / python-2.7.3 / gcc-4.7.2 - works
+- debian 6.0.8  /   i386 / gdb-7.3.1  / python-2.6.6 / gcc-4.4.5 - works
+- debian 6.0.10 /   i386 / gdb-7.0.1  / python-2.6.6 / gcc-4.4.5 - doesn't work (no gdb.inferiors)
 
 Example run
 -----------
